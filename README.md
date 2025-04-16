@@ -1,3 +1,5 @@
+## 由于锁的问题，基础镜像由`alpine`修改为`debian`
+
 ## Supported tags
 
 * [`2.4`, `latest` (*2.4/Dockerfile*)](https://github.com/BytemarkHosting/docker-webdav/blob/master/2.4/Dockerfile)
