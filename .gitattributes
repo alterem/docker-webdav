@@ -1,0 +1,4 @@
+* text=auto
+
+# Make sure bash scripts get checked out with correct line endings
+*.sh text eol=lf
